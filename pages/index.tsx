@@ -43,7 +43,7 @@ const Home: NextPage = () => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                built with @Anuj
+                built with @0xprajal
               </a>
             </Box>
           </Center>
